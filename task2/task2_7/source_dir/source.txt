@@ -1,0 +1,1 @@
+python "task2_7.py" "source_dir" "destination_dir" или python "task2_7.py" "C:\My Source" "C:\My Destination"
