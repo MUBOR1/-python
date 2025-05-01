@@ -1,0 +1,5 @@
+терминал:
+python task4_31.py 80
+
+браузер:
+localhost:80

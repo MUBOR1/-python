@@ -1,0 +1,5 @@
+http:
+python task4_29.py http://httpbin.org/get
+
+https:
+python task4_29.py http://ya.ru
